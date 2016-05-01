@@ -1,0 +1,9 @@
+[package]
+name = "ss"
+version = "0.1.0"
+authors = ["James Peach <jpeach@apache.org>"]
+
+[dependencies]
+libc = "0.2.10"
+nix = "0.5.0"
+
